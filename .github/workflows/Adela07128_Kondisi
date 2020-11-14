@@ -1,0 +1,6 @@
+package apkparkir;
+
+public class Adela07128_Kondisi {
+        String[] kondisikendaraan= {"PARKIR","KELUAR"};    
+
+}
