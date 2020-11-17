@@ -7,11 +7,11 @@ import java.util.Scanner;
 import java.util.Date;
 
 public class ApkParkir {
-    static ArrayList <Adela07128_Kendaraan> kendaraan = new ArrayList();
-    static ArrayList <Adela07128_Nota> nota = new ArrayList();
-    static Scanner input = new Scanner(System.in);
+    ArrayList <Adela07128_Kendaraan> kendaraan = new ArrayList();
+    ArrayList <Adela07128_Nota> nota = new ArrayList();
+    Scanner input = new Scanner(System.in);
     
-    public static void main(String[] args) {
+    public void main(String[] args) {
            ApkParkir data = new ApkParkir();
                 System.out.println("Program Sistem Informasi Data Parkir Bandara Juanda");
                 int adela07128_pilihan;
